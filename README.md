@@ -5,6 +5,8 @@ Smart Email Reply is an intelligent feature of the SmartAI Assistant that levera
 Tech Stack
 Backend: Spring Boot (Java)
 Frontend: React.js
+Chrome Extension: JavaScript
+
 AI: Natural Language Processing (NLP) for generating email replies
 
 Features
